@@ -1,7 +1,7 @@
-streamlit==1.22.0
-hashlib==0.2.0  
-numpy==1.23.5
-matplotlib==3.7.1
-Pillow==10.0.0
-imageio==2.25.0
-ffmpeg-python==0.2.0
+streamlit
+hashlib
+numpy
+matplotlib
+Pillow
+imageio
+ffmpeg-python
