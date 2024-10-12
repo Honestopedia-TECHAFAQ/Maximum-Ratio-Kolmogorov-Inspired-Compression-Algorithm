@@ -1,0 +1,1 @@
+# Maximum-Ratio-Kolmogorov-Inspired-Compression-Algorithm
